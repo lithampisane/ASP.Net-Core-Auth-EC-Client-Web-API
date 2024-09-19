@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\austo\\source\\repos\\AuthECAPI\\AuthECAPI\\AuthECAPI.csproj": {}
+    "C:\\Users\\twgadmin\\source\\repos\\AuthECAPI\\AuthECAPI\\AuthECAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\austo\\source\\repos\\AuthECAPI\\AuthECAPI\\AuthECAPI.csproj": {
+    "C:\\Users\\twgadmin\\source\\repos\\AuthECAPI\\AuthECAPI\\AuthECAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\austo\\source\\repos\\AuthECAPI\\AuthECAPI\\AuthECAPI.csproj",
+        "projectUniqueName": "C:\\Users\\twgadmin\\source\\repos\\AuthECAPI\\AuthECAPI\\AuthECAPI.csproj",
         "projectName": "AuthECAPI",
-        "projectPath": "C:\\Users\\austo\\source\\repos\\AuthECAPI\\AuthECAPI\\AuthECAPI.csproj",
-        "packagesPath": "C:\\Users\\austo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\austo\\source\\repos\\AuthECAPI\\AuthECAPI\\obj\\",
+        "projectPath": "C:\\Users\\twgadmin\\source\\repos\\AuthECAPI\\AuthECAPI\\AuthECAPI.csproj",
+        "packagesPath": "C:\\Users\\twgadmin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\twgadmin\\source\\repos\\AuthECAPI\\AuthECAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\austo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\twgadmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

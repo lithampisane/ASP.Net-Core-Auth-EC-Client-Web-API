@@ -39,7 +39,7 @@ if (app.Environment.IsDevelopment())
 
 #region Config. CORS
 app.UseCors(options =>
-    options.WithOrigins("http://localhost:4201")
+    options.WithOrigins("http://localhost:4200")
                .AllowAnyMethod()
                .AllowAnyHeader());
 #endregion

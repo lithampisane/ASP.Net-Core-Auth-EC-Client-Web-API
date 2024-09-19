@@ -1,18 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\austo\\source\\repos\\AuthECAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\twgadmin\\source\\repos\\AuthECAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FBEFF66-A3A6-42E3-B436-E94A08D6D26D}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\austo\\source\\repos\\authecapi\\authecapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FBEFF66-A3A6-42E3-B436-E94A08D6D26D}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\twgadmin\\source\\repos\\authecapi\\authecapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FBEFF66-A3A6-42E3-B436-E94A08D6D26D}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FBEFF66-A3A6-42E3-B436-E94A08D6D26D}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\austo\\source\\repos\\authecapi\\authecapi\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FBEFF66-A3A6-42E3-B436-E94A08D6D26D}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FBEFF66-A3A6-42E3-B436-E94A08D6D26D}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\austo\\source\\repos\\authecapi\\authecapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FBEFF66-A3A6-42E3-B436-E94A08D6D26D}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,49 +14,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\austo\\source\\repos\\AuthECAPI\\AuthECAPI\\Models\\AppUser.cs",
-              "RelativeDocumentMoniker": "AuthECAPI\\Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\austo\\source\\repos\\AuthECAPI\\AuthECAPI\\Models\\AppUser.cs",
-              "RelativeToolTip": "AuthECAPI\\Models\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T10:17:34.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\austo\\source\\repos\\AuthECAPI\\AuthECAPI\\Models\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "AuthECAPI\\Models\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\austo\\source\\repos\\AuthECAPI\\AuthECAPI\\Models\\AppDbContext.cs",
-              "RelativeToolTip": "AuthECAPI\\Models\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T09:58:20.184Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\austo\\source\\repos\\AuthECAPI\\AuthECAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\twgadmin\\source\\repos\\AuthECAPI\\AuthECAPI\\Program.cs",
               "RelativeDocumentMoniker": "AuthECAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\austo\\source\\repos\\AuthECAPI\\AuthECAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\twgadmin\\source\\repos\\AuthECAPI\\AuthECAPI\\Program.cs",
               "RelativeToolTip": "AuthECAPI\\Program.cs",
-              "ViewState": "AgIAACEAAADAzMzMzMwwwCkAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T09:44:21.553Z",
+              "WhenOpened": "2024-09-19T12:06:44.079Z",
               "EditorCaption": ""
             }
           ]
